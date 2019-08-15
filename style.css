@@ -1,0 +1,64 @@
+.ipodBody {
+  height: 500px;
+  width: 300px;
+  border: 2px solid black;
+  background-color: #555;
+  border-radius: 10px;
+}
+
+.ipodScreen {
+  height: 250px;
+  width: 280px;
+  background-color: black;
+  border-radius: 40px;
+  position: relative;
+  top: 20px;
+  left: 10px;
+}
+
+.circleMenu {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: solid 2px;
+  background-color: #555;
+  position: relative;
+  top: 270px;
+  left: 40px;
+}
+
+.innerButton {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  background-color: black;
+  position: relative;
+  top: 135px;
+  left: 105px;
+}
+
+.Button {
+  color: white;
+  position: relative;
+  font-weight: bold;
+
+}
+.Menu{
+  top: 10px;
+  left: 80px;
+}
+
+.play {
+top: 180px;
+left: 45px;
+}
+
+.forward {
+top: 90px;
+left: 113px;
+}
+
+.back {
+top: 90px;
+right: 90px;
+}
